@@ -14,12 +14,12 @@ Rust · Python · TypeScript - from packet parsers and API wrappers to full-stac
 
 
 
-I'm a full-stack developer and CS student from Ukraine, writing code since 2020. A lot of what I build starts with taking something apart - reverse-engineering game protocols, writing API wrappers and packet parsers - and turning it into tools and communities other people actually use. Right now most of my time goes into **Wuthery**, a fan platform for Wuthering Waves, **Bloodly**, a blood-pressure tracking app, and **gita**, the widget platform rendering this page.
+I'm a full-stack developer and CS student from Ukraine, writing code since 2020. A lot of what I build starts with taking something apart - reverse-engineering game protocols, writing API wrappers and packet parsers - and turning it into tools and communities other people can use. Right now most of my time goes into **Wuthery**, a fan platform for Wuthering Waves and **gita**, the widget platform rendering this page.
 
 
 
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://gita.jokelbaf.dev/api/widget/public/jb-section-divider?w=850&amp;index=02&amp;title=Tech%20I%20Build%20With&amp;desc=Languages%2C%20frameworks%20and%20tools%20I%20reach%20for.&amp;theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://gita.jokelbaf.dev/api/widget/public/jb-section-divider?w=850&amp;index=02&amp;title=Tech%20I%20Build%20With&amp;desc=Languages%2C%20frameworks%20and%20tools%20I%20reach%20for.&amp;theme=light"><img alt="Tech I Build With" src="https://gita.jokelbaf.dev/api/widget/public/jb-section-divider?w=850&amp;index=02&amp;title=Tech%20I%20Build%20With&amp;desc=Languages%2C%20frameworks%20and%20tools%20I%20reach%20for.&amp;theme=dark" width="850"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://gita.jokelbaf.dev/api/widget/public/jb-section-divider?w=850&amp;index=02&amp;title=Tech%20I%20Build%20With&amp;desc=Languages%2C%20frameworks%20and%20tools%20I%20reach%20for.&amp;theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://gita.jokelbaf.dev/api/widget/public/jb-section-divider?w=850&amp;index=02&amp;title=Tech%20I%20Build%20With&amp;desc=Languages%2C%20frameworks%20and%20tools%20I%20use.&amp;theme=light"><img alt="Tech I Build With" src="https://gita.jokelbaf.dev/api/widget/public/jb-section-divider?w=850&amp;index=02&amp;title=Tech%20I%20Build%20With&amp;desc=Languages%2C%20frameworks%20and%20tools%20I%20reach%20for.&amp;theme=dark" width="850"></picture>
 
 
 
